@@ -4,13 +4,12 @@ from scipy.io import wavfile
 import matplotlib.pyplot as plt
 
 
-
-def load_wavfile(path_to_file):
-
+def load_wavfile():
+    
     re = []
     im = []
 
-    file_path = path_to_file
+    file_path = "Your input wav file"
 
     fs, data = wavfile.read(file_path)
 
@@ -19,7 +18,6 @@ def load_wavfile(path_to_file):
     if(data.dtype == np.int16):
         data = data.astype(np.float)/2**16
         
-
     data_shape = data.shape[0]
     # print(len(data))
 
@@ -40,5 +38,5 @@ def load_wavfile(path_to_file):
     plt.title("Samples")
     # display the plot
     plt.show()
-    
+
     return re, im, number_of_complex_samples, data_shape
