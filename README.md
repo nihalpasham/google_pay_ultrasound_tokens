@@ -19,12 +19,12 @@ This repo contains 4 folders
 1. Just download the Jupyter Notebook and follow along OR
 2. For a more in-depth look at the reverse engineering process
   1. Part1 - [A noob’s attempt at reverse engineering Google pay’s Cash or Tez mode — part 1](https://link.medium.com/WcttcAFxz5)
-  2. Part2 - [A noob’s attempt at reverse engineering Google pay’s Cash or Tez mode — part 2]((https://link.medium.com/e0YFNXXrC5)
+  2. Part2 - [A noob’s attempt at reverse engineering Google pay’s Cash or Tez mode — part 2](https://link.medium.com/e0YFNXXrC5)
   3. Part3 - Coming Soon! (still under lockdown ...need to get some groceries. So, that takes precedence).
 
 **Notes:**
 1. Google just confirmed that they've made a change to the Android version of the G-pay app. They've disabled Tez-mode in their latest version of the app. **As far as I know, it has nothing to do with this work.**
 2. This technology i.e. cash-mode is used in a number of other google products (chromecast guest-mode, google nearby, google-play etc). I have not tested them.
-3. *There is no vulnerability here - g-pay only uses the ultrasound channel for discovery and pairing. For actual payments, it still relies on an internet connection 
+3. *There is **no vulnerability** here - g-pay only uses the ultrasound channel for discovery and pairing. For actual payments, it still relies on an internet connection* 
 4. Lastly, although paring tokens are replayable, they're short-lived. So, not much to worry about there.
 5. However, there is still a lot of stuff I havent looked at. So more to come!
