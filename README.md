@@ -32,5 +32,3 @@ This repo contains 4 folders
 4. Lastly, although paring tokens are replayable, they're short-lived. So, not much to worry about there.
 5. However, there is still a lot of stuff I havent looked at. So more to come!
 
-[test](https://github.com/nihalpasham/google_pay_ultrasound_tokens/blob/master/xcorr_dist.html)
-
