@@ -7,7 +7,8 @@ Tez mode' does not rely on RF-based technologies like (Bluetooth, Wi-Fi, NFC etc
 
 I have reverse engineered the ultrasound signal and data-transfer protocol. This repo contains code for an ultrasound receiver, capable of sniffing out 'google-pay generated' 8-digit tokens.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uf85JEeVDTo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Reverse engineering Google-pay's Cash/Tez mode
+](https://img.youtube.com/vi/uf85JEeVDTo/0.jpg)](https://youtu.be/uf85JEeVDTo)
 
 **Layout of this repo:**
 
