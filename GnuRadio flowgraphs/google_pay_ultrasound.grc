@@ -159,7 +159,7 @@
     </param>
     <param>
       <key>_enabled</key>
-      <value>0</value>
+      <value>1</value>
     </param>
     <param>
       <key>_coordinate</key>
@@ -351,11 +351,11 @@
     </param>
     <param>
       <key>_enabled</key>
-      <value>0</value>
+      <value>1</value>
     </param>
     <param>
       <key>file</key>
-      <value>C:\Users\Nil\devspace\Github_repos\alltheFSKs\Android_MFSK_Gpay_samples\Android_stereo_r_48khz_03222020_steadyhands_nolock_translated1.wav</value>
+      <value>C:\Users\Nil\devspace\Github_repos\google_pay_cash_mode\iPhone_MFSK_Gpay_samples\iPhone_stereo_r_48khz_raw_c4755658_frequency_translated_lowpass_filtered.wav</value>
     </param>
     <param>
       <key>_coordinate</key>
@@ -398,7 +398,7 @@
     </param>
     <param>
       <key>file</key>
-      <value>C:\Users\Nil\devspace\Github_repos\alltheFSKs\Android_MFSK_Gpay_samples\Android_stereo_r_48khz_03222020_steadyhands.wav</value>
+      <value>C:\Users\Nil\devspace\Github_repos\google_pay_cash_mode\iPhone_MFSK_Gpay_samples\iPhone_stereo_r_48khz_raw_c4755658.wav</value>
     </param>
     <param>
       <key>_coordinate</key>

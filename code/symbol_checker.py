@@ -47,7 +47,7 @@ def symbol_selector(pos):
         despread_re = np.multiply(upsampled_signal, re[ index[0]  : index[0] + len(upsampled_signal) ])
         despread_im = np.multiply(upsampled_signal, im[ index[0]  : index[0] + len(upsampled_signal) ])
 
-        fft_instant = np.fft.fft(despread_re)                       # you could swap this with 'despread_im' 
+        fft_instant = np.fft.rfft(despread_re)                       # you could swap this with 'despread_im' 
                                                                     # if you want to check for symbol avgs in the 
                                                                     # imaginary component of the signal
         fft_instant = fft_instant[tone_zero : tone_zero + num_tones]
