@@ -23,7 +23,7 @@ This repo contains 4 folders
 2. For a more in-depth look at the reverse engineering process
    * Part1 - [A noob’s attempt at reverse engineering Google pay’s Cash or Tez mode — part 1](https://link.medium.com/WcttcAFxz5)
    * Part2 - [A noob’s attempt at reverse engineering Google pay’s Cash or Tez mode — part 2](https://link.medium.com/e0YFNXXrC5)
-   * Part3 - [A noob’s attempt at reverse engineering Google pay’s Cash or Tez mode — part 2](https://link.medium.com/6CQH2sd6I5)
+   * Part3 - [A noob’s attempt at reverse engineering Google pay’s Cash or Tez mode — part 3](https://link.medium.com/6CQH2sd6I5)
 
 **Notes:**
 1. Google just confirmed that they've made a change to the Android version of the G-pay app. They've disabled Tez-mode in their latest version of the app. **As far as I know, it has nothing to do with this work.**
