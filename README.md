@@ -32,3 +32,12 @@ This repo contains 4 folders
 4. Lastly, although paring tokens are replayable, they're short-lived. So, not much to worry about there.
 5. However, there is still a lot of stuff I havent looked at. So more to come!
 
+**Timeline:**
+
+2020–02–04: Reverse Engineered
+2020–03–04: Notified Google via its VRP. 
+2020–19–04: Google received my bug report.
+2020–21–04: Bug accepted – Assigned Priority: 1 Severity: 2
+2020–01–05: Google feedback, bug not qualified for reward
+2020–01–05: Google feedback, “Won’t Fix (Intended Behavior)”
+2020–02–05: Code released for public consumption along with a 3-part medium.com blog.
